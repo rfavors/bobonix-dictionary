@@ -8,5 +8,455 @@
     "word": "Slangtrepreneur",
     "meaning": "One who builds empires from words; a hustler fluent in the language of the street and the suite.",
     "example": "Launching new lingo daily, that’s a true Slangtrepreneur move."
+  
+},
+  {
+    "word": "Blazehack",
+    "meaning": "Solve a problem with insane style and flair.",
+    "roots": "Hack (Gen X tech) + Blaze (fire/gen z)",
+    "usage": "You just Blazehacked that pitch deck!",
+    "vibe": "Boss move"
+  },
+  {
+    "word": "Ghostwired",
+    "meaning": "Being digitally unavailable—off all socials but watching.",
+    "roots": "Ghosting + Wired (tech age)",
+    "usage": "He’s ghostwired again, lurking but never posting.",
+    "vibe": "Silent observer"
+  },
+  {
+    "word": "Crankcloud",
+    "meaning": "Someone complaining online but flexing too.",
+    "roots": "Crank (complainer, Gen X) + Cloud (digital era)",
+    "usage": "Don’t be a crankcloud—either vibe or vanish.",
+    "vibe": "Contradictory flex"
+  },
+  {
+    "word": "Vapetrik",
+    "meaning": "A flashy, mostly digital move with no long-term weight.",
+    "roots": "Vape trick + Parlor trick",
+    "usage": "His crypto exit? Total vapetrik.",
+    "vibe": "Flash over substance"
+  },
+  {
+    "word": "Flexicon",
+    "meaning": "A curated set of words or brands used to flex.",
+    "roots": "Flex + Lexicon",
+    "usage": "He’s got a tight flexicon—AI, startups, and vintage Jordans.",
+    "vibe": "Lingo arsenal"
+  },
+
+  // MENTALITY TERMS
+  {
+    "word": "Zenburn",
+    "meaning": "Chill but ultra-productive state of flow.",
+    "roots": "Zen (inner peace) + Burn (getting work done)",
+    "usage": "I hit Zenburn this morning—knocked out 4 proposals.",
+    "vibe": "Flow state"
+  },
+  {
+    "word": "Gridrift",
+    "meaning": "Slowly losing structure while pretending to hustle.",
+    "roots": "Grid (hustle culture) + Drift",
+    "usage": "Bro’s in total gridrift—posting reels, no clients.",
+    "vibe": "Fake hustle"
+  },
+  {
+    "word": "Hackitude",
+    "meaning": "Confident hacker energy.",
+    "roots": "Hack + Attitude",
+    "usage": "You’ve got real hackitude—let’s build that MVP.",
+    "vibe": "Confidence"
+  },
+  {
+    "word": "Snarkload",
+    "meaning": "A heavy dose of sarcastic humor, usually online.",
+    "roots": "Snark + Payload",
+    "usage": "That post had a snarkload. Savage.",
+    "vibe": "Sarcastic"
+  },
+  {
+    "word": "Neoretroshift",
+    "meaning": "Switching from modern to vintage style for effect.",
+    "roots": "Neo + Retro + Shift",
+    "usage": "Did you see her neoretroshifted AI profile? 90s font FTW.",
+    "vibe": "Style switch"
+  },
+
+  // HUSTLE + TECH TERMS
+  {
+    "word": "Bankspam",
+    "meaning": "Sending pitch decks or product links to investors with zero finesse.",
+    "roots": "Bank + Spam",
+    "usage": "Don’t go bankspamming. Warm them first.",
+    "vibe": "Cold pitch"
+  },
+  {
+    "word": "Appnesia",
+    "meaning": "When you forget about the apps you built last month.",
+    "roots": "App + Amnesia",
+    "usage": "I had appnesia—forgot I launched that automation tool.",
+    "vibe": "Productivity loss"
+  },
+  {
+    "word": "Glitchwallet",
+    "meaning": "Digital wallet that crashes or drains due to dumb moves.",
+    "roots": "Glitch + Wallet",
+    "usage": "Rugpull. My glitchwallet’s fried.",
+    "vibe": "Crypto fail"
+  },
+  {
+    "word": "Nofomode",
+    "meaning": "Fearless anti-FOMO state.",
+    "roots": "No FOMO + Mode",
+    "usage": "She’s in nofomode—building while the rest panic.",
+    "vibe": "Focused"
+  },
+  {
+    "word": "Buzzware",
+    "meaning": "Software that’s more hype than function.",
+    "roots": "Buzzword + Software",
+    "usage": "That app? Buzzware. Total UI, no backend.",
+    "vibe": "All show"
+  },
+
+  // SOCIAL/AI CULTURE TERMS
+  {
+    "word": "Filterzoned",
+    "meaning": "When AI or algorithms block your content without telling you.",
+    "roots": "Filter + Zoned",
+    "usage": "I got filterzoned. No views, no reason.",
+    "vibe": "Shadowbanned"
+  },
+  {
+    "word": "Cloutspin",
+    "meaning": "Jumping trends purely for engagement.",
+    "roots": "Clout + Spin",
+    "usage": "Don’t cloutspin the AI bubble. Build real tools.",
+    "vibe": "Trend chase"
+  },
+  {
+    "word": "Promptvibe",
+    "meaning": "When your AI prompt perfectly nails the tone and outcome.",
+    "roots": "Prompt + Vibe",
+    "usage": "That logo prompt? Total promptvibe.",
+    "vibe": "AI win"
+  },
+  {
+    "word": "Deepdrip",
+    "meaning": "AI-generated or enhanced style that looks elite.",
+    "roots": "Deepfake + Drip",
+    "usage": "That avatar’s got deepdrip. Who coded it?",
+    "vibe": "High style"
+  },
+  {
+    "word": "Streamlock",
+    "meaning": "Being stuck in endless livestreaming to stay relevant.",
+    "roots": "Stream + Gridlock",
+    "usage": "He’s in a streamlock—same content, different day.",
+    "vibe": "Stuck online"
+  },
+
+  // --- Bobonically Speaking & Expansion Words ---
+  {
+    "word": "Retrocore",
+    "meaning": "Hardcore love for vintage aesthetics in a digital world.",
+    "roots": "Retro + Core",
+    "usage": "Their room is straight retrocore—CRT and LED strips.",
+    "vibe": "Nostalgic"
+  },
+  {
+    "word": "Pingfade",
+    "meaning": "When someone reads your message but never replies.",
+    "roots": "Ping + Fade",
+    "usage": "She pingfaded my DM.",
+    "vibe": "Ghosting"
+  },
+  {
+    "word": "Buzzbroke",
+    "meaning": "Emotionally drained from chasing trends that don’t convert.",
+    "roots": "Buzz + Broke",
+    "usage": "I’m buzzbroke—too many launches, no wins.",
+    "vibe": "Trend burnout"
+  },
+  {
+    "word": "Lazerlatch",
+    "meaning": "To lock onto a topic or person with digital intensity.",
+    "roots": "Laser + Latch",
+    "usage": "He lazerlatched onto that trend—nonstop posts.",
+    "vibe": "Focus"
+  },
+  {
+    "word": "Databounce",
+    "meaning": "Leaving a conversation as soon as it gets deep.",
+    "roots": "Data + Bounce",
+    "usage": "Don’t databounce just as we get real.",
+    "vibe": "Avoidant"
+  },
+  {
+    "word": "Gifjam",
+    "meaning": "Overloading a chat with too many GIFs in place of real talk.",
+    "roots": "GIF + Jam",
+    "usage": "Groupchat’s a gifjam again—zero words.",
+    "vibe": "Meme overload"
+  },
+  {
+    "word": "Screenburner",
+    "meaning": "A device or app you use so much it feels tattooed on you.",
+    "roots": "Screen + Burner",
+    "usage": "My phone’s a screenburner—never leaves my hand.",
+    "vibe": "Always on"
+  },
+  {
+    "word": "Snubloop",
+    "meaning": "Getting ignored repeatedly by someone who’s 'always online.'",
+    "roots": "Snub + Loop",
+    "usage": "Stuck in a snubloop—left on read forever.",
+    "vibe": "Ignored"
+  },
+  {
+    "word": "Cloudscruff",
+    "meaning": "Pretending to be a cloud tech expert but isn’t.",
+    "roots": "Cloud + Scruff",
+    "usage": "He’s all cloudscruff—never shipped real code.",
+    "vibe": "Faking it"
+  },
+  {
+    "word": "Grungecoded",
+    "meaning": "Aesthetic that looks unrefined on purpose—raw but intentional.",
+    "roots": "Grunge + Code",
+    "usage": "Their site’s grungecoded—ugly but hot.",
+    "vibe": "Intentionally messy"
+  },
+  {
+    "word": "Wokepatch",
+    "meaning": "Temporary update in behavior to appear socially aware.",
+    "roots": "Woke + Patch",
+    "usage": "His wokepatch only lasts until the feed moves on.",
+    "vibe": "Performative"
+  },
+  {
+    "word": "Ziptweak",
+    "meaning": "Tiny tweaks just to look busy or productive.",
+    "roots": "Zip + Tweak",
+    "usage": "All ziptweaks—no real progress.",
+    "vibe": "Fake hustle"
+  },
+  {
+    "word": "Apptrace",
+    "meaning": "Digital footprints left by deleting apps but leaving trails.",
+    "roots": "App + Trace",
+    "usage": "My apptrace is everywhere—old logins in the cloud.",
+    "vibe": "Residual"
+  },
+  {
+    "word": "Clipclash",
+    "meaning": "Posting contradictory short clips for engagement.",
+    "roots": "Clip + Clash",
+    "usage": "She’s running a clipclash—hot takes both ways.",
+    "vibe": "Content chaos"
+  },
+  {
+    "word": "Trendphased",
+    "meaning": "Tired of trends, choosing intentional digital silence.",
+    "roots": "Trend + Phased",
+    "usage": "I’m trendphased—off socials, on zen.",
+    "vibe": "Silent"
+  },
+  {
+    "word": "Moodshifted",
+    "meaning": "Drastically changing tone mid-convo.",
+    "roots": "Mood + Shifted",
+    "usage": "He moodshifted from hype to ghost.",
+    "vibe": "Switch up"
+  },
+  {
+    "word": "Neonfreeze",
+    "meaning": "To stun a digital room with bold color/aesthetic.",
+    "roots": "Neon + Freeze",
+    "usage": "Her new page neonfreezed my scroll.",
+    "vibe": "Bold"
+  },
+  {
+    "word": "Trollghost",
+    "meaning": "Trolls then disappears without a trace.",
+    "roots": "Troll + Ghost",
+    "usage": "Classic trollghost—flames and then vanished.",
+    "vibe": "Instigator"
+  },
+  {
+    "word": "Rageplug",
+    "meaning": "Venting online and dropping a promo link at the end.",
+    "roots": "Rage + Plug",
+    "usage": "Her rageplug had a link drop. Smooth.",
+    "vibe": "Promo rant"
+  },
+  {
+    "word": "AIfished",
+    "meaning": "Duped by a fake AI-generated profile or content.",
+    "roots": "AI + Catfished",
+    "usage": "I got AIfished—totally not a real person.",
+    "vibe": "Bamboozled"
+  },
+  {
+    "word": "Bytecrash",
+    "meaning": "Emotional burnout from constant content consumption.",
+    "roots": "Byte + Crash",
+    "usage": "Major bytecrash. Logging off.",
+    "vibe": "Burned out"
+  },
+  {
+    "word": "Loopgassed",
+    "meaning": "Hyping something repeatedly until you tire yourself out.",
+    "roots": "Loop + Gassed",
+    "usage": "Loopgassed the drop until it flopped.",
+    "vibe": "Overhyped"
+  },
+  {
+    "word": "Clickwashed",
+    "meaning": "Misled by misleading clickbait thumbnails or titles.",
+    "roots": "Click + Whitewashed",
+    "usage": "Clickwashed again—lame content.",
+    "vibe": "Duped"
+  },
+  {
+    "word": "Dripline",
+    "meaning": "A social feed showcasing perfectly timed outfits or aesthetics.",
+    "roots": "Drip + Timeline",
+    "usage": "Her IG is a pure dripline.",
+    "vibe": "Stylish"
+  },
+  {
+    "word": "Lagluxe",
+    "meaning": "High-end products/services with sluggish tech.",
+    "roots": "Lag + Luxe",
+    "usage": "That lagluxe watch—looks great, freezes every day.",
+    "vibe": "Pretty, but slow"
+  },
+  {
+    "word": "Virtuquake",
+    "meaning": "Shocking impact from a viral post or digital scandal.",
+    "roots": "Virtual + Quake",
+    "usage": "That thread caused a virtuquake.",
+    "vibe": "Viral moment"
+  },
+  {
+    "word": "Syntaxglow",
+    "meaning": "The radiant feeling when code runs perfectly first try.",
+    "roots": "Syntax + Glow",
+    "usage": "Syntaxglow all day—no bugs.",
+    "vibe": "Code bliss"
+  },
+  {
+    "word": "Snarkbyte",
+    "meaning": "A perfectly packaged witty insult.",
+    "roots": "Snark + Byte",
+    "usage": "He dropped a snarkbyte in the comments.",
+    "vibe": "Witty"
+  },
+  {
+    "word": "Wavemode",
+    "meaning": "A period of flowing productivity or creativity.",
+    "roots": "Wave + Mode",
+    "usage": "In full wavemode—making bangers.",
+    "vibe": "Flow"
+  },
+  {
+    "word": "Nostalgear",
+    "meaning": "Clothing or accessories mixing past and present styles.",
+    "roots": "Nostalgia + Gear",
+    "usage": "That jacket? Pure nostalgear.",
+    "vibe": "Retro fit"
+  },
+  {
+    "word": "Trendnado",
+    "meaning": "Getting sucked into every new challenge or trend.",
+    "roots": "Trend + Tornado",
+    "usage": "She’s in a trendnado. Every week, new style.",
+    "vibe": "Fad chaser"
+  },
+  {
+    "word": "Altshifted",
+    "meaning": "Changing identities, handles, or avatars frequently.",
+    "roots": "Alt + Shifted",
+    "usage": "He altshifted for the third time this year.",
+    "vibe": "Identity swap"
+  },
+  {
+    "word": "Vibeghost",
+    "meaning": "A person whose energy was once big online but vanished.",
+    "roots": "Vibe + Ghost",
+    "usage": "She’s a vibeghost now—what happened?",
+    "vibe": "Disappeared"
+  },
+  {
+    "word": "Filtershock",
+    "meaning": "Seeing someone in real life without their filters.",
+    "roots": "Filter + Shock",
+    "usage": "Filtershock at the meetup—totally different.",
+    "vibe": "Surprised"
+  },
+  {
+    "word": "Inboxnumb",
+    "meaning": "Desensitized to messages because of too many notifications.",
+    "roots": "Inbox + Numb",
+    "usage": "Inboxnumb. Can’t even read anymore.",
+    "vibe": "Overwhelmed"
+  },
+  {
+    "word": "Zoomburn",
+    "meaning": "Fatigue from too many virtual meetings.",
+    "roots": "Zoom + Burn",
+    "usage": "Suffering zoomburn—no more calls.",
+    "vibe": "Exhausted"
+  },
+  {
+    "word": "Metaweird",
+    "meaning": "Something so self-aware it becomes cringey.",
+    "roots": "Meta + Weird",
+    "usage": "That campaign went metaweird. Yikes.",
+    "vibe": "Cringe"
+  },
+  {
+    "word": "Dripfade",
+    "meaning": "A loss of style over time due to burnout or neglect.",
+    "roots": "Drip + Fade",
+    "usage": "His fits had dripfade. Used to be fire.",
+    "vibe": "Lost style"
+  },
+  {
+    "word": "Flexcrypt",
+    "meaning": "Flashy flexes that seem shady or untraceable.",
+    "roots": "Flex + Crypt",
+    "usage": "All flexcrypt—never shows the receipts.",
+    "vibe": "Unverified"
+  },
+  {
+    "word": "Promptbomb",
+    "meaning": "A powerful AI prompt that creates unexpected magic.",
+    "roots": "Prompt + Bomb",
+    "usage": "That promptbomb went viral on Midjourney.",
+    "vibe": "Unexpected win"
+  },
+  {
+    "word": "Streakshade",
+    "meaning": "Jealousy thrown at people for keeping perfect digital streaks.",
+    "roots": "Streak + Shade",
+    "usage": "Dropping streakshade on that 200-day Snap score.",
+    "vibe": "Petty"
+  },
+  {
+    "word": "Rebootrage",
+    "meaning": "Tech frustration that leads to irrational restarting of everything.",
+    "roots": "Reboot + Rage",
+    "usage": "Hit rebootrage after Chrome froze.",
+    "vibe": "Overreact"
+  },
+  {
+    "word": "Nofluxzone",
+    "meaning": "A place or mindset resistant to change."
   }
 ]
+
+
+
